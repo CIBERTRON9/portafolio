@@ -1,30 +1,91 @@
-Javier Cerda - Portafolio
+# Javier Cerda - Portafolio
 
-# Perfil Profesional
-Profesional tecnólogo médico en laboratorio clínico, diplomado en informática clínica y finalizando estudios en ingenieria ciberseguridad, con experiencia en análisis de vulnerabilidades, hardening y desarrollo en Python.
+## Perfil Profesional
+Tecnólogo médico en laboratorio clínico, con diplomado en informática clínica y formación en ingeniería en ciberseguridad. Experiencia en análisis de vulnerabilidades, hardening, implementación de SIEM y desarrollo en Python aplicado a seguridad. Interesado en seguridad ofensiva (Red Team) y defensiva (Blue Team), con enfoque en entornos de salud digital.
 
 ---
 
-## 🔐 Ciberseguridad
-- Análisis de vulnerabilidades con OpenVAS y Metasploitable
-- Uso de Nmap para reconocimiento
-- Implementación de SIEM en entornos virtualizados
-- Hardening basado en estándares CIS
-- Configuración de firewall con pfSense
+## Proyecto Destacado
+
+### Análisis de Vulnerabilidades con OpenVAS y Metasploitable
+
+Desarrollé un laboratorio de ciberseguridad en entorno virtualizado donde:
+
+- Realicé escaneo de vulnerabilidades utilizando OpenVAS  
+- Identifiqué servicios expuestos mediante técnicas de reconocimiento  
+- Analicé riesgos de seguridad en sistemas vulnerables (Metasploitable)  
+- Clasifiqué vulnerabilidades según criticidad  
+- Propuse medidas de mitigación  
+
+📄 **Ver reporte principal:** `metasploitable usage laboratory2 report with openvas.pdf`  
+📄 **Ver análisis complementario:** `project Vulnerability analysis with openvas a metaploitable.pdf`
+
+---
+
+## Ciberseguridad
+
+Experiencia práctica en:
+
+- Implementación de firewall con pfSense  
+- Implementación de SIEM y SOC en entornos virtualizados mediante AWS
+- Hardening basado en estándares CIS en Linux  
+- Análisis de inteligencia de amenazas  
+- Uso de Nmap para reconocimiento de red  
+- Evaluación de vulnerabilidades en entornos controlados  
+
+📄 `Implementation firewall pfsense.pdf`  
+📄 `Implementation of SIEM and SOC.pdf`  
+📄 `Hardering and application of CIS in kali linux.pdf`  
+📄 `Threat intelligence laboratory for hardening.pdf`  
+📄 `project of use guide nmap.pdf`
 
 ---
 
 ## 🐍 Desarrollo en Python
-- Programas de criptografía (RSA, XOR, monoalfabético)
-- Calculadora en Python con documentación de usuario
+
+Desarrollo de herramientas orientadas a seguridad:
+
+- Implementación de algoritmos de criptografía:
+  - RSA  
+  - XOR (análisis de frecuencia)  
+  - Cifrado monoalfabético  
+- Desarrollo de aplicación de calculadora en Python con documentación de usuario  
+
+💻 `XOR Encryption Breaker Program using Frequency Analysis.PY`  
+💻 `CSF.py cipher program`  
+💻 `Monoalfabetica.py Cryptography Program`  
+💻 `project of calculator in language python.py`  
+📄 `User Manual Calculator Jcerdas2.pdf`
 
 ---
 
-## 🏥 Informática Clínica
-- Proyectos de salud digital y usabilidad
-- Aplicación de normativas ISO 27001 en salud
--Aplicación de ciberseguridad a un caso de incidente en institución en salud
+## Informática Clínica
+
+Aplicación de ciberseguridad en contexto de salud:
+
+- Proyectos de usabilidad en salud digital  
+- Aplicación de normativas ISO 27001 y 31000  
+- Integración de ciberseguridad en entornos clínicos  
+
+📄 `Project for the application of usability in digital health.docx`  
+📄 `project of application and use regulations iso27001 and 310000.pdf`
+
+---
+
+##  Otros Proyectos y Laboratorios
+
+Durante mi formación he desarrollado múltiples laboratorios prácticos en:
+
+- Implementación de SIEM en AWS  
+- Instalación y comparación de sistemas operativos  
+- Análisis de amenazas en empresas del sector salud  
+- Aplicación de ciencia de datos en ciberseguridad  
+- Administración de redes locales  
+
+Estos proyectos fortalecen mi experiencia en entornos reales y simulados de ciberseguridad.
+
 ---
 
 ## 🚀 Objetivo Profesional
-Desarrollarme en el área de ciberseguridad, integrando conocimientos en salud digital y seguridad  defensiva (Blue Team )
+
+Desarrollarme en el área de ciberseguridad, integrando conocimientos en salud digital, con enfoque en seguridad defensiva (Blue Team), aportando en la protección de infraestructuras críticas.
