@@ -1,97 +1,214 @@
-# Javier Cerda - Portafolio
+# Javier Cerda Salas | Cybersecurity & Digital Health Portfolio
 
-## Perfil Profesional
-Tecnólogo médico en laboratorio clínico, con diplomado en informática clínica y formación en ingeniería en ciberseguridad. Experiencia en análisis de vulnerabilidades, hardening, implementación de SIEM y desarrollo en Python aplicado a seguridad. Interesado en seguridad ofensiva (Red Team) y defensiva (Blue Team), con enfoque en entornos de salud digital.
+### Salud Digital · Ciberseguridad · Informática Clínica · GRC
 
----
+**Tecnólogo Médico | Ingeniería en Ciberseguridad (etapa final)**
 
-## Proyecto Destacado
+Portafolio técnico de proyectos académicos, laboratorios y ejercicios prácticos desarrollados en ciberseguridad, gestión de riesgos e informática clínica.
 
-### Análisis de Vulnerabilidades con OpenVAS y Metasploitable
+Mi orientación profesional integra el conocimiento de procesos sanitarios y diagnóstico clínico con la seguridad de la información, la evaluación de riesgos tecnológicos y la protección de sistemas digitales utilizados en organizaciones de salud.
 
-Desarrollé un laboratorio de ciberseguridad en entorno virtualizado donde:
-
-- Realicé escaneo de vulnerabilidades utilizando OpenVAS  
-- Identifiqué servicios expuestos mediante técnicas de reconocimiento  
-- Analicé riesgos de seguridad en sistemas vulnerables (Metasploitable)  
-- Clasifiqué vulnerabilidades según criticidad  
-- Propuse medidas de mitigación  
-
-📄 **Ver reporte principal:** `metasploitable usage laboratory2 report with openvas.pdf`  
-📄 **Ver análisis complementario:** `project Vulnerability analysis with openvas a metaploitable.pdf`
+[LinkedIn](https://www.linkedin.com/in/javier-cerda-salas-60a33b1b0/) · [GitHub](https://github.com/CIBERTRON9/portafolio)
 
 ---
 
-## Ciberseguridad
+## 01 | Guía de navegación
 
-Experiencia práctica en:
+Este repositorio está organizado para facilitar la revisión tanto de perfiles de selección como de profesionales técnicos.
 
-- Implementación de firewall con pfSense  
-- Implementación de SIEM y SOC en entornos virtualizados mediante AWS
-- Hardening basado en estándares CIS en Linux  
-- Análisis de inteligencia de amenazas  
-- Uso de Nmap para reconocimiento de red  
-- Evaluación de vulnerabilidades en entornos controlados  
-
-📄 `Implementation firewall pfsense.pdf`  
-📄 `Implementation of SIEM and SOC.pdf`  
-📄 `Hardering and application of CIS in kali linux.pdf`  
-📄 `Threat intelligence laboratory for hardening.pdf`  
-📄 `project of use guide nmap.pdf`
+| Área | Contenido |
+|---|---|
+| [GRC y seguridad en salud](#02--grc-y-analisis-de-riesgos-en-salud) | Normativas, riesgos y análisis de amenazas en escenarios sanitarios. |
+| [Evaluación de vulnerabilidades](#03--vulnerability-assessment-y-pentesting) | Reconocimiento, escaneo y análisis de vulnerabilidades. |
+| [Blue Team y SIEM/SOC](#04--seguridad-defensiva-y-monitoreo) | Monitoreo, integración de herramientas y análisis de amenazas. |
+| [Seguridad de infraestructura](#05--seguridad-de-infraestructura-y-hardening) | Firewall, hardening, redes y sistemas operativos. |
+| [Análisis forense](#06--analisis-forense-digital) | Ejercicio de análisis forense y documentación técnica. |
+| [Salud digital](#07--informatica-clinica-y-salud-digital) | Usabilidad y tecnologías aplicadas a entornos sanitarios. |
+| [Python y criptografía](#08--programacion-y-criptografia) | Desarrollo de programas y fundamentos criptográficos. |
 
 ---
 
-## 🐍 Desarrollo en Python
+## 02 | GRC y análisis de riesgos en salud
 
-Desarrollo de herramientas orientadas a seguridad:
+Trabajos académicos relacionados con gestión de riesgos, análisis de amenazas y aplicación de referencias normativas de seguridad de la información.
 
-- Implementación de algoritmos de criptografía:
-  - RSA  
-  - XOR (análisis de frecuencia)  
-  - Cifrado monoalfabético  
-- Desarrollo de aplicación de calculadora en Python con documentación de usuario  
+**Proyectos disponibles:**
 
-💻 `XOR Encryption Breaker Program using Frequency Analysis.PY`  
-💻 `CSF.py cipher program`  
-💻 `Monoalfabetica.py Cryptography Program`  
-💻 `project of calculator in language python.py`  
-📄 `User Manual Calculator Jcerdas2.pdf`
+| Documento | Orientación del trabajo |
+|---|---|
+| [Laboratorio de aplicacion de Tecnicas y estrategias en analisis de amenazas empresa de salud.pdf](<./Laboratorio de aplicacion de Tecnicas y estrategias en analisis de amenazas empresa de salud.pdf>) | Análisis de amenazas en un escenario organizacional del sector salud. |
+| [Reconocimiento de vulnerabilidades y amenazas en empresa de salud.pdf](<./Reconocimiento de vulnerabilidades y amenazas en empresa de salud.pdf>) | Identificación y análisis de vulnerabilidades y amenazas en un escenario sanitario. |
+| [proyecto de aplicacion y uso normativas iso27001 y 310000.pdf](<./proyecto de aplicacion y uso normativas iso27001 y 310000.pdf>) | Aplicación académica de las referencias ISO 27001 e ISO 31000. |
+| [proyecto Gestión Organizacional y aplicacion PATA.docx](<./proyecto Gestión Organizacional y aplicacion PATA.docx>) | Trabajo académico de gestión organizacional y aplicación PATA. |
 
----
-
-## Informática Clínica
-
-Aplicación de ciberseguridad en contexto de salud:
-
-- Proyectos de usabilidad en salud digital  
-- Aplicación de normativas ISO 27001 y 31000  
-- Integración de ciberseguridad en entornos clínicos  
-
-📄 `Project for the application of usability in digital health.docx`  
-📄 `project of application and use regulations iso27001 and 310000.pdf`
+**Competencias abordadas:** análisis de amenazas, gestión de riesgos, referencias normativas, seguridad de la información y contexto sanitario.
 
 ---
 
-##  Otros Proyectos y Laboratorios
+## 03 | Vulnerability Assessment y Pentesting
 
-Durante mi formación he desarrollado múltiples laboratorios prácticos en:
+Laboratorios orientados al reconocimiento de redes, identificación de servicios expuestos y evaluación de vulnerabilidades en entornos de prueba controlados.
 
-- Implementación de SIEM en AWS  
-- Instalación y comparación de sistemas operativos  
-- Análisis de amenazas en empresas del sector salud  
-- Aplicación de ciencia de datos en ciberseguridad  
-- Administración de redes locales  
+**Proyectos disponibles:**
 
-## Proyectos de Diplomado de ciberseguridad avanzada:
--Reconocimiento y gestion de vulnerabilidades en empresa de salud ficticia.
--Integración de SIEM y SOC en entorno de ciberdefensa.
--Analisis forense con elaboración de informe forense.
--Pentesting con informe y gestión de vulnerabilidades detectadas.
+| Documento | Orientación del trabajo |
+|---|---|
+| [proyecto de guia de uso nmap.pdf](<./proyecto de guia de uso nmap.pdf>) | Guía de utilización de Nmap para reconocimiento de redes. |
+| [laboratorio de uso metasploitable2 reporte con openvas.pdf](<./laboratorio de uso metasploitable2 reporte con openvas.pdf>) | Laboratorio de evaluación de vulnerabilidades utilizando OpenVAS y Metasploitable 2. |
+| [proyecto Analisis de vulnerabilidades con openvas a metasploitable.pdf](<./proyecto Analisis de vulnerabilidades con openvas a metasploitable.pdf>) | Análisis de vulnerabilidades sobre un entorno deliberadamente vulnerable. |
+| [Pentesting y analisis de vulnerabilidades.pdf](<./Pentesting y analisis de vulnerabilidades.pdf>) | Trabajo académico de pentesting y análisis de vulnerabilidades. |
 
-Estos proyectos fortalecen mi experiencia en entornos reales y simulados de ciberseguridad.
+**Tecnologías abordadas:** Nmap, OpenVAS y Metasploitable 2.
+
+**Competencias abordadas:** reconocimiento, escaneo, análisis de vulnerabilidades, evaluación de hallazgos y medidas de mitigación.
 
 ---
 
-## 🚀 Objetivo Profesional
+## 04 | Seguridad defensiva y monitoreo
 
-Desarrollarme en el área de ciberseguridad, integrando conocimientos en salud digital, con enfoque en seguridad defensiva (Blue Team), aportando en la protección de infraestructuras críticas.
+Laboratorios relacionados con la implementación de componentes de seguridad defensiva, monitoreo y análisis de amenazas.
+
+**Proyectos disponibles:**
+
+| Documento | Orientación del trabajo |
+|---|---|
+| [Implementación de SIEM Y SOC.pdf](<./Implementación de SIEM Y SOC.pdf>) | Trabajo de implementación de componentes SIEM/SOC. |
+| [Integración de SIEM y suricata en entorno defensivo.pdf](<./Integración de SIEM y suricata en entorno defensivo.pdf>) | Integración de herramientas de monitoreo y detección en un entorno defensivo. |
+| [Laboratorio de implementación de siem en maquinas virtuales creadas mediante AWS.pdf](<./Laboratorio de implementación de siem en maquinas virtuales creadas mediante AWS.pdf>) | Laboratorio de despliegue de máquinas virtuales mediante AWS para un entorno SIEM. |
+| [Laboratorio de inteligencia de amenazas para hardering.pdf](<./Laboratorio de inteligencia de amenazas para hardering.pdf>) | Ejercicio relacionado con inteligencia de amenazas y hardening. |
+| [laboratorio de aplicación de tecnicas de ciencias de datos aplicado a ciberseguridad.pdf](<./laboratorio de aplicación de tecnicas de ciencias de datos aplicado a ciberseguridad.pdf>) | Aplicación de técnicas de ciencias de datos al ámbito de la ciberseguridad. |
+
+**Tecnologías abordadas:** SIEM/SOC, Suricata y AWS.
+
+**Competencias abordadas:** seguridad defensiva, monitoreo, integración de herramientas y análisis de amenazas.
+
+---
+
+## 05 | Seguridad de infraestructura y hardening
+
+Ejercicios relacionados con configuración de infraestructura, administración de redes y fortalecimiento de sistemas.
+
+**Proyectos disponibles:**
+
+| Documento | Orientación del trabajo |
+|---|---|
+| [Implementacion firewall pfsense.pdf](<./Implementacion firewall pfsense.pdf>) | Implementación de firewall utilizando pfSense. |
+| [Laboratorio de hardering y aplicacion de CIS en kali linux.pdf](<./Laboratorio de hardering y aplicacion de CIS en kali linux.pdf>) | Ejercicio de hardening y aplicación de referencias CIS en Kali Linux. |
+| [Laboratorio de Instalacion y comparacion de SO.pdf](<./Laboratorio de Instalacion y comparacion de SO.pdf>) | Instalación y comparación de sistemas operativos. |
+| [proyecto de administracion de redes locales.pdf](<./proyecto de administracion de redes locales.pdf>) | Ejercicio de administración de redes locales. |
+
+**Tecnologías abordadas:** pfSense, Linux y referencias CIS.
+
+**Competencias abordadas:** seguridad de infraestructura, administración de redes y fortalecimiento de sistemas.
+
+---
+
+## 06 | Análisis forense digital
+
+Ejercicio académico orientado al análisis forense y elaboración de documentación técnica.
+
+| Documento | Orientación del trabajo |
+|---|---|
+| [Analisis forense con informe forense.pdf](<./Analisis forense con informe forense.pdf>) | Análisis forense digital con elaboración de informe. |
+
+---
+
+## 07 | Informática clínica y salud digital
+
+Proyectos relacionados con la aplicación de principios de usabilidad y tecnologías en contextos de salud digital.
+
+| Documento | Orientación del trabajo |
+|---|---|
+| [Proyecto de aplicacion de la usabilidad en salud digital.docx](<./Proyecto de aplicacion de la usabilidad en salud digital.docx>) | Trabajo académico de aplicación de usabilidad en soluciones de salud digital. |
+
+Esta línea se relaciona con mi experiencia clínica y participación en asesoría funcional de sistemas LIS/LIMS, integrando la perspectiva del usuario sanitario con los requerimientos tecnológicos.
+
+---
+
+## 08 | Programación y criptografía
+
+Ejercicios de programación en Python y aplicación de fundamentos criptográficos.
+
+### Criptografía
+
+| Código | Desarrollo |
+|---|---|
+| [Programa cifrador mediante RSA.py](<./Programa cifrador mediante RSA.py>) | Implementación de un programa de cifrado RSA. |
+| [Programa Rompedor de Cifrado XOR mediante Análisis de Frecuencia.PY](<./Programa Rompedor de Cifrado XOR mediante Análisis de Frecuencia.PY>) | Programa para análisis de cifrado XOR mediante frecuencia. |
+| [Programa de criptografia monoalfabetica.py](<./Programa de criptografia monoalfabetica.py>) | Implementación de criptografía monoalfabética. |
+
+### Desarrollo de aplicaciones
+
+| Código / documento | Desarrollo |
+|---|---|
+| [proyecto de calculadora en lenguaje python.py](<./proyecto de calculadora en lenguaje python.py>) | Desarrollo de una calculadora utilizando Python. |
+| [Manual de Usuario calculadora Jcerdas2.pdf](<./Manual de Usuario calculadora Jcerdas2.pdf>) | Documentación de usuario de la aplicación. |
+
+---
+
+## 09 | Proyecto de titulación en desarrollo
+
+### FIC-SD | Ciberseguridad aplicada a entornos de salud digital en Chile
+
+Proyecto de titulación orientado a adaptar un marco de ciberseguridad al contexto de las organizaciones sanitarias, considerando los riesgos asociados a la interoperabilidad clínica, el marco regulatorio chileno y la priorización de controles.
+
+**Líneas de desarrollo:**
+
+- Análisis normativo y regulatorio.
+- Evaluación contextual de riesgos tecnológicos en salud.
+- Seguridad de sistemas de información e interoperabilidad clínica.
+- Adaptación y articulación de marcos de referencia.
+- Definición de criterios de evaluación y priorización de controles.
+
+**Marcos de referencia considerados:**
+
+- NIST Cybersecurity Framework 2.0.
+- ISO/IEC 27001:2022.
+- CIS Critical Security Controls v8.
+
+*Proyecto académico en desarrollo. La documentación específica se incorporará al repositorio a medida que sus entregables estén preparados y autorizados para publicación.*
+
+---
+
+## 10 | Formación y especialización
+
+**Formación académica**
+
+- Ingeniería en Ciberseguridad — Universidad Mayor (etapa final).
+- Tecnología Médica, mención Laboratorio Clínico, Hematología y Banco de Sangre — Universidad Santo Tomás.
+
+**Diplomados**
+
+- Ciberseguridad Avanzada — Duoc UC.
+- Informática Clínica — Pontificia Universidad Católica de Chile.
+- Diagnóstico Molecular — Universidad Santo Tomás.
+- Microbiología — Universidad Santo Tomás.
+
+**Certificaciones y formación complementaria**
+
+- Google Cybersecurity Professional Certificate.
+- Google Cloud Cybersecurity.
+- Cisco Networking Academy.
+- Fundamentos de auditoría de ciberseguridad.
+- Fundamentos de Blue Team.
+- Formación en interoperabilidad y FHIR.
+
+---
+
+## 11 | Alcance de los trabajos
+
+Los documentos de este repositorio corresponden a proyectos académicos, ejercicios prácticos y laboratorios desarrollados durante mi formación.
+
+Los proyectos se presentan de acuerdo con su alcance documentado y no representan necesariamente implementaciones productivas, auditorías profesionales ni intervenciones de respuesta a incidentes en organizaciones sanitarias.
+
+El propósito es facilitar la revisión de los procedimientos, herramientas y aprendizajes documentados, permitiendo evaluar el desarrollo progresivo de competencias en ciberseguridad, gestión de riesgos e informática clínica.
+
+---
+
+### Contacto profesional
+
+**Javier Cerda Salas**
+
+[LinkedIn](https://www.linkedin.com/in/javier-cerda-salas-60a33b1b0/)
+
+[GitHub](https://github.com/CIBERTRON9/portafolio)
